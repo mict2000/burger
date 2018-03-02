@@ -3,7 +3,7 @@
 Created during Week 8 of UC Berkeley Extension Coding Bootcamp using Node Express Handlebars and ORM. MVC, Node and MySQL are used to query and route data to the app and Handlebars to generate the HTML.
 
 ## Getting Started
-https://monkey-feces-44469.herokuapp.com/
+https://burguersapp.herokuapp.com/
 
 ## Screen Shots
 
