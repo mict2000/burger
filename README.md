@@ -5,11 +5,11 @@ Created during Week 8 of UC Berkeley Extension Coding Bootcamp using Node Expres
 ## Getting Started
 https://wackoburger.herokuapp.com/
 ## Screen Shots From Top To Bottom
-![Screen shot1](images/burger1.jpg)
-![Screen shot2](images/burger2.jpg)
-![Screen shot3](images/burger3.jpg)
+![Screen shot1](/images/burger1.jpg)
+![Screen shot2](/images/burger2.jpg)
+![Screen shot3](/images/burger3.jpg)
 ## Favicon Screenshot
-![Screen shot4](images/favicon1.jpg)
+![Screen shot4](/images/favicon1.jpg)
 ## Technologies used
 - Node.js
 - MySQL
