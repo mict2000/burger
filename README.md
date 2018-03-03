@@ -7,7 +7,7 @@ https://wackoburger.herokuapp.com/
 ## Screen Shots From Top To Bottom
 
 
-![Screen shot1](burger1.jpg)
+![Screen shot1](https://github.com/mict2000/burger/blob/master/public/assets/images/burger1.jpg?raw=true)
 
 
 ![Screen shot2](burger2.jpg)
