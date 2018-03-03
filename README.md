@@ -1,24 +1,27 @@
-# Eat the Burger!
+# Welcome to Wacko Burger!
 
 Created during Week 8 of UC Berkeley Extension Coding Bootcamp using Node Express Handlebars and ORM. MVC, Node and MySQL are used to query and route data to the app and Handlebars to generate the HTML.
 
 ## Getting Started
-https://burguersapp.herokuapp.com/
+https://wackoburger.herokuapp.com/
+## Screen Shots From Top To Bottom
 
-## Screen Shots
+![Screen shot](public/assets/images/burger1.jpg)
 
-![Screen shot](public/assets/images/Index.png)
-Index Page
 
-![Screen shot2](public/assets/images/Butt.png)
-Form to create new burgers or sides to 'devour' from drop down menus
+![Screen shot2](public/assets/images/burger2.jpg)
 
-![Screen shot3](public/assets/images/Crank.png)
-Menu Page - Displays all available Burgers and Sides
+
+![Screen shot3](public/assets/images/burger3.jpg)
+
+## Favicon Screenshot
+![Screen shot3](public/assets/images/favicon1.jpg)
 
 ## Technologies used
 - Node.js
 - MySQL
+- Heroku
+- JawsDB
 - Handlebars - http://handlebarsjs.com/
 - body-parser NPM Package - https://www.npmjs.com/package/inquirer
 - express NPM Package - https://www.npmjs.com/package/express
@@ -41,4 +44,4 @@ Menu Page - Displays all available Burgers and Sides
 
 ## Authors
 
-* **Mike Thompson** - *JS/Node.js/Handlebars* - [Mike Thompson](https://github.com/mict2000)
+* **Mike Thompson** - *JS/Node.js/Handlebars* - [Mike Thompson](https://github.com/mict2000/burger)
