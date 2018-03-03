@@ -1,23 +1,30 @@
 <!DOCTYPE html>
-<html lang ="en">
-  <head>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-     <!-- Compiled and minified CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/css/materialize.min.css">
-      <!-- jQuery -->
-    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
-    <!-- Compiled and minified JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Coiny" rel="stylesheet">
-    <link rel="stylesheet" href="/assets/css/burger_style.css">
-     <link rel="shortcut icon" href="assets/images/Burger.png" />
-    <title>Eat the Burger!</title>
-  </head>
-  <body>
-    <div class="container">
-      {{> nav/navbar}}
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
 
-      {{{ body }}}
+  <link href="https://fonts.googleapis.com/css?family=Covered+By+Your+Grace|Damion" rel="stylesheet">
+  <!-- Compiled and minified Materialize CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
+  
+  <link rel="stylesheet" href="/assets/css/style.css" type="text/css" />
+  <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+  <title>Welcome to Wacko Burger</title>
+</head>
+
+<body>
+  <img src="/assets/images/cute_burger.png" width="400px" id="cute_burger">
+
+  {{{ body }}}
+
+  <footer class="burgerFooter">
+    <div class="footer-copyright">
+      <div class="container">
+        <span class="black-text text-lighten-4">© 2018 Mike Thompson</span>
+        <a class="black-text text-lighten-4 right" href="https://github.com/mict2000/burger">Reference Work</a>
+      </div>
     </div>
-  </body>
-<html>
+  </footer>
+</body>
+</html>
