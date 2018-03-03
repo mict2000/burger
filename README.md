@@ -10,17 +10,17 @@ https://wackoburger.herokuapp.com/
 ![Screen shot1](https://github.com/mict2000/burger/blob/master/public/assets/images/burger1.jpg?raw=true)
 
 
-![Screen shot2](burger2.jpg)
+![Screen shot2](https://github.com/mict2000/burger/blob/master/public/assets/images/burger2.jpg?raw=true)
 
 
-![Screen shot3](burger3.jpg)
+![Screen shot3](https://github.com/mict2000/burger/blob/master/public/assets/images/burger3.jpg?raw=true)
 
 
 
 ## Favicon Screenshot
 
 
-![Screen shot4](favicon1.jpg)
+![Screen shot4](https://github.com/mict2000/burger/blob/master/public/assets/images/favicon1.jpg?raw=true)
 
 
 ## Technologies used
